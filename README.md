@@ -80,3 +80,7 @@ select distinct(my_function(quant,ssc)) from ecommerce limit 15;
 
 Predefined Functions:
 select lower(quant) from ecommerce limit 10;
+
+
+# Hadoop part explaination in youtube:
+https://youtu.be/XWq4wWaCQWg
